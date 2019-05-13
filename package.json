@@ -7,7 +7,7 @@
     "build": "tsc && webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "zhouxin <630201431@qq.com>",
+  "author": "zx-undefined <630201431@qq.com>",
   "keywords": [
     "javascript",
     "typescript",
@@ -16,6 +16,10 @@
     "constants"
   ],
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/zhou-xin-undefined/keyCodeTs.git",
+    "type": "typeScript"
+  },
   "devDependencies": {
     "clean-webpack-plugin": "^2.0.2",
     "typescript": "^3.4.5",
