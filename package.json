@@ -1,0 +1,25 @@
+{
+  "name": "keycode-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript package with Key Code constants",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhouxin <630201431@qq.com>",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "enum",
+    "keycode",
+    "constants"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "clean-webpack-plugin": "^2.0.2",
+    "typescript": "^3.4.5",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^3.3.2"
+  }
+}

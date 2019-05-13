@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "outDir": "./build"
+  },
+  "include": ["./src/**/*.ts"]
+}
